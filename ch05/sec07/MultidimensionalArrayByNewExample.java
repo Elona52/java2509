@@ -6,10 +6,12 @@ public class MultidimensionalArrayByNewExample {
 		// TODO Auto-generated method stub
 //각 반의 학생수가 3명으로 동일할 경우 점수 저장을 위한 2차원 배열 생성
 		int[][] mathScores = new int[2][3];
+		
 //배열초기값 출력
-		for (int i = 0; i < mathScores.length; i++) {
+		for (int i = 0; i < mathScores.length; i++) { //반 수만큼 반
 			for (int k = 0; k < mathScores[i].length; k++) {
-				System.out.println("mathScores[" + i + "][" + k + "]: " + mathScores[i][k]);
+				System.out.println("mathScores[" + i + "][" + k + "]: " 
+			+ mathScores[i][k]); //해당 반 학생수만큼 반
 			}
 		}
 		System.out.println();

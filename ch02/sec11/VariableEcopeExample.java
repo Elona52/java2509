@@ -1,4 +1,4 @@
-package ch02.sec09;
+package ch02.sec11;
 
 public class VariableEcopeExample {
 
@@ -8,7 +8,7 @@ public class VariableEcopeExample {
 		if(v1>10) {
 			int v2 = v1 - 10;
 		}
-//		int v3 = v1 + v2 +5;
+//int v3 = v1 + v2 +5;
 	}
 
 }
