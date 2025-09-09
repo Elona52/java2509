@@ -1,14 +1,18 @@
 package ch07.sec09;
 
+//부모 상속 
 public class Student extends Person {
 
+	//필드 선언 
 	public int studentNo;
 
+	//생성자 선언 
 	public Student(String name, int studentNo) {
-		super(name);
+		super(name); //부모 클래스에서 선언 
 		this.studentNo = studentNo;
 	}
-
+	
+	//메소드 선언 
 	public void study() {
 		System.out.println("공부를 합니다.");
 	}

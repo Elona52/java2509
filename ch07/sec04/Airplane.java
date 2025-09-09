@@ -1,6 +1,8 @@
 package ch07.sec04;
 
 public class Airplane {
+	
+	//메소드 선언 
 	public void land() {
 		System.out.println("착륙합니다.");
 	}

@@ -2,9 +2,11 @@ package ch07.sec02;
 
 public class Phone {
 
+	//부모클래스에서 필드 선언 
 	public String model;
 	public String color;
 	
+	//부모클래스에서 메소드 선언
 	public void bell() {
 		System.out.println("벨이 울립니다.");
 	}

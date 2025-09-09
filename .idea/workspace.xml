@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd18ead6-6c96-4eeb-99a8-140c36b813fb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ch03/check/check01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/sec01/IncreaseDecreaseOperatorExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/sec01/SignOperatorExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/sec02/AeithmeticOperatorExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/sec03/OverflowUnderflowExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/sec04/AccuracyExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/sec04/AccuracyExample2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/sec05/InfinityAndNaNCheckExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/sec06/CompareOperatorExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/sec07/LogicalOperatorExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/sec08/LogicalOperatorExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/sec09/BitShiftExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/sec09/BitShiftExample2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/sec10/AssignmentOperatorExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/sec11/ConditionalOperationExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec02/Phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec02/SmartPhone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec02/SmartPhoneExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec03/Phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec03/Phone2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec03/SmartPhone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec03/SmartPhone2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec03/SmartPhoneExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec03/SmartPhoneExample2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec04/Airplane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec04/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec04/Computer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec04/ComputerExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec04/SupersonicAirplane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec04/SupersonicAirplaneExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec05/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec05/SportsCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec06/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec06/B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec06_1/C.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec06_1/D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec07/Child.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec07/Child2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec07/ChildExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec07/ChildExample2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec07/Parent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec07/Parent2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec07/PromotionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec08/Bus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec08/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec08/CarExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec08/Driver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec08/DriverExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec08/HankookTire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec08/KumhoTire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec08/Taxi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec08/Tire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec08/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec09/InstanceofExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec09/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec09/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec10/AbstractMethodExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec10/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec10/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec10/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec10/Phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec10/PhoneExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec10/SmartPhone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec11/Director.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec11/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec11/Manager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec11/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/sec11/SealedExample.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="32RHhMpLRNcfoQvDzgCoIyXmcQT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/leejimin/Desktop/GitHub/java2509"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd18ead6-6c96-4eeb-99a8-140c36b813fb" name="Changes" comment="" />
+      <created>1757376582724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757376582724</updated>
+    </task>
+    <servers />
+  </component>
+</project>
