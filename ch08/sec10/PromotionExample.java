@@ -1,0 +1,24 @@
+package ch08.sec10;
+
+public class PromotionExample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		//인터페이스 변수 선언 -> 구현객체에 값 대입
+		B b = new B();
+		C c = new C();
+		D d = new D();
+		E e = new E();
+		
+		//인터페이스 변수 선언
+		A a;
+		
+		//인터페이스 변수에 구현 객체 대입
+		a = b;
+		a = c;
+		a = d;
+		a = e;	
+	}
+
+}
